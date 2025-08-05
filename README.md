@@ -31,22 +31,38 @@ This project is a **Cucumber-based BDD test automation framework** implementing 
 
 ---
 
-## ✅ Project Structure
-automation-project/
+## 🗂 Project Structure
+
+```
+automation-framework/
+│
 ├── src/main/java/
-│ ├── base/ # WebDriver init, TestBase
-│ ├── pages/ # Page Objects
-│ ├── utils/ # Helpers: Wait, Logger, Config
-│ └── managers/ # Driver & PageObject managers
+│   ├── base/            # WebDriver initialization and TestBase
+│   ├── pages/           # Page Object Model classes
+│   ├── utils/           # Helper classes (Wait, Logger, Config)
+│   └── managers/        # Driver and PageObject managers
+│
 ├── src/test/java/
-│ ├── stepDefinitions/ # Step defs + Hooks
-│ ├── runners/ # Test runners
-│ └── features/ # Gherkin scenarios
+│   ├── stepDefinitions/ # Cucumber step definitions and Hooks
+│   ├── runners/         # Test runners configuration
+│   └── features/        # Gherkin feature files
+│
 ├── src/test/resources/
-│ ├── configs/ # Environment configs
-│ └── testdata/ # Test data
-├── pom.xml
-└── README.md
+│   ├── configs/         # Environment configuration files
+│   └── testdata/        # Test data files
+│
+├── target/              # Compiled classes and test reports
+├── pom.xml              # Maven configuration
+└── README.md            # Project documentation
+```
+
+### Key Components
+
+- **`src/main/java/base/`** - Core test infrastructure
+- **`src/main/java/pages/`** - Page Object classes following POM
+- **`src/test/java/features/`** - BDD scenarios in Gherkin
+- **`src/test/resources/configs/`** - Environment-specific settings
+- **`src/test/resources/testdata/`** - Test data management
 
 ---
 
