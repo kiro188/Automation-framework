@@ -1,0 +1,274 @@
+2025-08-03 20:02:26.966 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:27.004 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win64/chromedriver-win64.zip
+2025-08-03 20:02:27.437 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2025-08-03 20:02:27.533 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:28.430 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:02:29.034 [main] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 20:02:29.769 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:29.773 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:30.307 [main] INFO  utils.LoggerUtil - Adding a product from 'Phones' category to cart
+2025-08-03 20:02:30.658 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:30.661 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:31.159 [main] INFO  utils.LoggerUtil - Adding a product from 'Phones' category to cart
+2025-08-03 20:02:31.481 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:31.484 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:32.027 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:02:32.562 [main] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 20:02:32.727 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:32.729 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:33.258 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:02:33.748 [main] INFO  utils.LoggerUtil - Selecting category: Laptops
+2025-08-03 20:02:33.814 [main] INFO  utils.LoggerUtil - Verifying products in category: Laptops
+2025-08-03 20:02:34.398 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:34.399 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:34.884 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:02:35.343 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-03 20:02:35.497 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:02:35.499 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:02:36.021 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:10:48.013 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:10:48.034 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:10:48.924 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:10:49.464 [main] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 20:10:50.168 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:10:50.171 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:10:50.661 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:10:51.203 [main] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 20:10:51.415 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:10:51.418 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:10:51.929 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:20:01.346 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:20:01.363 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:20:02.205 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:20:02.718 [main] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 20:20:03.414 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:20:03.417 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:20:03.924 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:20:04.353 [main] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 20:20:04.644 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:20:04.647 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:20:05.159 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:22:15.059 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:22:15.077 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:22:15.933 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:22:16.412 [main] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 20:22:17.066 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:22:17.069 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:22:17.569 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 20:22:18.094 [main] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 20:22:18.383 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 20:22:18.386 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 20:22:18.916 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:28:06.089 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:28:06.104 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:28:07.001 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:28:07.573 [main] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 22:28:08.267 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:28:08.270 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:28:08.793 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:28:09.327 [main] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 22:28:09.582 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:28:09.585 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:28:10.071 [main] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:59:25.771 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:59:25.788 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:59:26.860 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:59:27.406 [TestNG-tests-1] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 22:59:28.141 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:59:28.145 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:59:28.697 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:59:29.161 [TestNG-tests-1] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 22:59:29.386 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 22:59:29.389 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 22:59:29.929 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 22:59:30.400 [TestNG-tests-1] INFO  utils.LoggerUtil - Initiating search for term: laptop
+2025-08-03 23:03:28.168 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:03:28.185 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:03:29.077 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 23:03:29.632 [TestNG-tests-1] INFO  utils.LoggerUtil - Selecting first product from 'Phones' category
+2025-08-03 23:03:30.353 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:03:30.355 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:03:30.841 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 23:03:31.295 [TestNG-tests-1] INFO  utils.LoggerUtil - Verifying display of categories: [Phones, Laptops, Monitors]
+2025-08-03 23:03:31.540 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:03:31.543 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:03:32.067 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to the home page: https://www.demoblaze.com/
+2025-08-03 23:03:32.561 [TestNG-tests-1] INFO  utils.LoggerUtil - Initiating search for term: laptop
+2025-08-03 23:20:26.058 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:20:26.076 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:20:26.935 [TestNG-tests-1] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:20:26.935 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:20:27.601 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigated to home page
+2025-08-03 23:20:27.714 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:20:27.717 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:20:28.229 [TestNG-tests-1] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:20:28.229 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:20:28.736 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigated to home page
+2025-08-03 23:20:28.785 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:20:28.788 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:20:29.394 [TestNG-tests-1] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:20:29.394 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:20:29.889 [TestNG-tests-1] INFO  utils.LoggerUtil - Navigated to home page
+2025-08-03 23:45:21.775 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:45:21.787 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:45:22.521 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:45:22.521 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:45:23.126 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-03 23:46:31.711 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:46:31.724 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:46:32.484 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:46:32.484 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:46:33.023 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-03 23:47:30.979 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:47:30.994 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:47:31.768 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:47:31.769 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:47:32.374 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-03 23:47:32.396 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-03 23:48:47.529 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:48:47.544 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:48:48.322 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:48:48.322 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:48:48.870 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-03 23:50:10.749 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-03 23:50:10.763 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-03 23:50:11.524 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-03 23:50:11.525 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-03 23:50:12.127 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-03 23:50:12.159 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-04 00:06:28.291 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-04 00:06:28.304 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-04 00:06:29.058 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-04 00:06:29.058 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-04 00:06:29.642 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-04 00:06:29.677 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-04 00:06:29.677 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-04 00:15:58.335 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-04 00:15:58.351 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-04 00:15:59.110 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-04 00:15:59.110 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-04 00:15:59.647 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-04 00:15:59.680 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-04 00:15:59.680 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-04 00:39:41.310 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-04 00:39:41.322 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-04 00:39:42.105 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-04 00:39:42.106 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-04 00:39:42.676 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-04 00:39:42.743 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-04 00:39:42.743 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:19:39.982 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:19:39.996 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:19:40.864 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 10:19:40.865 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-05 10:19:41.327 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 10:19:41.359 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-05 10:19:51.204 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:19:51.220 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:19:52.009 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 10:19:52.010 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-05 10:19:52.443 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 10:19:52.476 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:19:52.476 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:24:38.882 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:24:38.896 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:24:39.683 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 10:24:39.683 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-05 10:24:40.140 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 10:24:40.172 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:24:40.172 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:34:56.093 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:34:56.107 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:34:56.855 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 10:34:56.856 [main] INFO  utils.LoggerUtil - Navigating to home page
+2025-08-05 10:34:57.411 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 10:34:57.444 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:34:57.444 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 10:41:17.346 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:41:17.365 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:41:18.279 [main] INFO  runners.TestRunner - === Test Suite Started ===
+2025-08-05 10:41:18.658 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-05 10:41:18.782 [main] INFO  runners.TestRunner - WebDriver closed successfully
+2025-08-05 10:41:18.782 [main] INFO  runners.TestRunner - === Test Suite Completed ===
+2025-08-05 10:48:43.660 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 10:48:43.678 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 10:48:44.536 [main] INFO  runners.TestRunner - === Test Suite Started ===
+2025-08-05 10:48:44.887 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-05 10:48:45.014 [main] INFO  runners.TestRunner - WebDriver closed successfully
+2025-08-05 10:48:45.014 [main] INFO  runners.TestRunner - === Test Suite Completed ===
+2025-08-05 11:22:08.796 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:22:08.812 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:22:09.723 [main] INFO  runners.TestRunner - === Test Suite Started ===
+2025-08-05 11:22:10.256 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:22:10.260 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:22:10.785 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:22:10.785 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:22:11.298 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:22:11.333 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-05 11:22:11.376 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:22:11.379 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:22:11.875 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:22:11.875 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:22:12.400 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:22:12.433 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 11:22:12.492 [main] INFO  utils.LoggerUtil - Selecting product: Samsung galaxy s6
+2025-08-05 11:22:12.524 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:22:12.526 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:22:13.147 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:22:13.147 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:22:13.649 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:22:13.675 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:22:13.675 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:22:21.099 [main] INFO  runners.TestRunner - WebDriver closed successfully
+2025-08-05 11:22:21.100 [main] INFO  runners.TestRunner - === Test Suite Completed ===
+2025-08-05 11:24:26.673 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:26.692 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:27.577 [main] INFO  runners.TestRunner - === Test Suite Started ===
+2025-08-05 11:24:28.157 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:28.160 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:28.666 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:28.667 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:29.143 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:29.164 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-05 11:24:29.201 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:29.204 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:29.735 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:29.735 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:30.170 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:30.198 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 11:24:30.264 [main] INFO  utils.LoggerUtil - Selecting product: Samsung galaxy s6
+2025-08-05 11:24:30.289 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:30.293 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:30.884 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:30.884 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:31.319 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:31.348 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:24:31.348 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:24:34.986 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:34.989 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:35.495 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:35.495 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:35.897 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:35.911 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
+2025-08-05 11:24:35.926 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:35.929 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:36.503 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:36.503 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:37.020 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:37.037 [main] INFO  utils.LoggerUtil - Selecting category: Phones
+2025-08-05 11:24:37.092 [main] INFO  utils.LoggerUtil - Selecting product: Samsung galaxy s6
+2025-08-05 11:24:37.116 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:24:37.120 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:24:37.722 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:24:37.722 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:24:37.872 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:24:38.140 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:24:38.140 [main] INFO  utils.LoggerUtil - Searching for: laptop
+2025-08-05 11:24:39.836 [main] INFO  runners.TestRunner - WebDriver closed successfully
+2025-08-05 11:24:39.837 [main] INFO  runners.TestRunner - === Test Suite Completed ===
+2025-08-05 11:25:28.059 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-05 11:25:28.073 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hapon\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-05 11:25:28.819 [main] INFO  utils.LoggerUtil - Initialized HomePage
+2025-08-05 11:25:28.819 [main] INFO  utils.LoggerUtil - Navigating to home page: https://www.demoblaze.com/
+2025-08-05 11:25:29.284 [main] INFO  utils.LoggerUtil - Navigated to home page: https://www.demoblaze.com/
+2025-08-05 11:25:29.304 [main] INFO  utils.LoggerUtil - Verifying home page elements are displayed
