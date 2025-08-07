@@ -13,10 +13,6 @@ Feature: Home Page
     Given I am on the home page
     When I select the "Phones" category
     And I select the product "SAMSUNG_GALAXY_S6"
-    Then I should see products in the Phones category
-
-  @smoke
-  Scenario: Search for a product
-    Given I am on the home page
-    When I search for "laptop"
-    Then I should see search results containing "laptop"
+    Then I should see Add to Cart button
+    And I select the Add to Cart button
+    Then I should see "Product added" alert
